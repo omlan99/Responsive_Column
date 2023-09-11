@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.container .row{
+    background-color: rgb(197, 197, 197);
+    padding: 10px 5px;
+}
+.container .row div{
+    border: 1px solid white;
+    height: 100px;
+}
